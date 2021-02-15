@@ -2,8 +2,9 @@ html{
 	cursor: url(imagens/mata_mosca.png) 30 30, auto;
 }
 
-html, body{
+html, body{ 
 	background: url(imagens/bg.jpg);
+	background-size: cover;
 	right: 100%;
 	width: 100%;
 }
